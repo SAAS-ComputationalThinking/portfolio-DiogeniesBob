@@ -1,0 +1,170 @@
+.Welcomemessage{
+    background-color: orange;
+    width: 600px;
+}
+.homescreencat{
+    height: 200px;
+    left: 1100px;
+    top: 100px;
+    rotate: 30deg;
+    position: absolute;
+}
+.coolstuff{
+    background-image: linear-gradient(70deg, rgb(101, 196, 0), rgb(255, 166, 0));
+    height: 750px;
+}
+.expol1{
+    height: 200px;
+    left: 100px;
+    top: 500px;
+    position: absolute;
+}
+.explo2{
+    height: 200px;
+    left: 1000px;
+    top: 450px;
+    position: absolute;
+    
+}
+
+
+.asquare{
+    background-color: aliceblue; 
+    position: absolute;
+    height: 43px;
+    width: 43px;
+    
+}
+
+.apple{
+
+background-image: url("appleimg.png");
+background-size: cover; 
+position: absolute;
+height: 43px;
+width: 43px;
+
+}
+.snakehead{
+
+    background-image: url("snakehead.jpg");
+    background-size: cover; 
+    position: absolute;
+    height: 43px;
+    width: 43px;
+    
+}
+.snakebody{
+
+    background-color: green;
+    background-size: cover; 
+    border-radius: 20%;
+    position: absolute;
+    height: 43px;
+    width: 43px;
+    
+}
+
+
+.target{
+    background-image: url("target.png");
+    background-color: black;
+    position: absolute;
+    height: 43px;
+    width: 43px;
+    background-size: cover; 
+    background-position: center; 
+}
+
+
+
+
+#colorbox{
+    width: 300px;
+    height: 300px;
+    border:15px solid beige;
+    background-color: black;
+    margin:auto;
+}
+#input{
+    margin: 100px;
+}
+#swag{
+    margin: 100px;
+    font-size: 30;
+}
+
+
+
+.asquare2 {
+    background-color: bisque;
+    margin: 20;
+    bottom: 100;
+    right: 100;
+    height: 40px;
+    width: 40px;
+    position: absolute;
+    border: 1px solid black;
+
+}
+
+.runaway{
+    background-image: url("kanye.jpg");
+    position: absolute;
+    height: 200px;
+    width: 200px;
+    top: 100px;
+    left: 100px;
+    background-size: cover; 
+    background-position: center; 
+}
+.key{
+    background-image: url("pianokey.png");
+    position: absolute;
+    height: 200px;
+    width: 200px;
+    top: 100px;
+    left: 300px;
+    background-size: cover; 
+    background-position: center; 
+}
+.exqusite{
+    background-image: url("exquisite.jpg");
+    position: absolute;
+    height: 200px;
+    width: 200px;
+    top: 100px;
+    left: 500px;
+    background-size: cover; 
+    background-position: center; 
+}
+.clang{
+    background-image: url("metalpipe.jpg");
+    position: absolute;
+    height: 200px;
+    width: 200px;
+    top: 100px;
+    left: 700px;
+    background-size: cover; 
+    background-position: center; 
+}
+.yippie{
+    background-image: url("face.png");
+    position: absolute;
+    height: 200px;
+    width: 200px;
+    top: 100px;
+    left: 900px;
+    background-size: cover; 
+    background-position: center; 
+}
+.boom{
+    background-image: url("explo2.jpg");
+    position: absolute;
+    height: 200px;
+    width: 200px;
+    top: 100px;
+    left: 1100px;
+    background-size: cover; 
+    background-position: center; 
+}
